@@ -1,0 +1,21 @@
+site_name: SenseGrid Documentation
+site_description: Documentation for the SenseGrid platform
+site_author: Isuru M Dasanayake
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Installation: installation.md
+  - Features: features.md
+  - Usage: usage.md
+  - FAQ: faq.md
