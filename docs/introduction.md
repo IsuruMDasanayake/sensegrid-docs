@@ -5,9 +5,9 @@
 It provides a scalable frontend architecture suitable for product showcases, dashboards, and data-driven applications.
 
 **Tech Stack:**
-- React + Vite
-- Tailwind CSS
-- shadcn/ui components
-- Recharts (for data visualization)
-- Framer Motion (animations)
+    - React + Vite
+    - Tailwind CSS
+    - shadcn/ui components
+    - Recharts (for data visualization)
+    - Framer Motion (animations)
 
